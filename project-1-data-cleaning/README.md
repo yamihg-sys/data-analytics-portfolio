@@ -11,5 +11,8 @@ This project focuses on cleaning and preparing raw data using Python.
 - Python (Pandas)
 - Jupyter Notebook
 
+- ## Preview:
+(Screenshots and results will be added here)
+
 ## Status:
 In progress
