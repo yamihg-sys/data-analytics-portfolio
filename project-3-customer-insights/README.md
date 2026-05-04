@@ -10,5 +10,8 @@ This project will analyze customer behavior and purchasing trends.
 ## Tools:
 - Python / Excel
 
+- ## Preview:
+(Screenshots and results will be added here)
+
 ## Status:
 Coming soon
