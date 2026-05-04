@@ -10,5 +10,8 @@ This project will focus on building an interactive sales dashboard using Tableau
 ## Tools:
 - Tableau
 
+- ## Preview:
+(Screenshots and results will be added here)
+
 ## Status:
 Coming soon
